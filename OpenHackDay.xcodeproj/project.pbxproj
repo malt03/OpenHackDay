@@ -15,6 +15,7 @@
 		EDCE1E021AAAC11C00D4AFAB /* OpenHackDayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDCE1E011AAAC11C00D4AFAB /* OpenHackDayTests.swift */; };
 		EDCE1E0C1AAAC92000D4AFAB /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDCE1E0B1AAAC92000D4AFAB /* MediaPlayer.framework */; };
 		EDCE1E0E1AAAD96700D4AFAB /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDCE1E0D1AAAD96700D4AFAB /* CoreBluetooth.framework */; };
+		EDDF984F1AAB84580061049F /* CalculationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDDF984E1AAB84580061049F /* CalculationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		EDCE1E011AAAC11C00D4AFAB /* OpenHackDayTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenHackDayTests.swift; sourceTree = "<group>"; };
 		EDCE1E0B1AAAC92000D4AFAB /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		EDCE1E0D1AAAD96700D4AFAB /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		EDDF984E1AAB84580061049F /* CalculationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 			children = (
 				EDCE1DEB1AAAC11B00D4AFAB /* AppDelegate.swift */,
 				EDCE1DED1AAAC11B00D4AFAB /* ViewController.swift */,
+				EDDF984E1AAB84580061049F /* CalculationViewController.swift */,
 				EDCE1DEF1AAAC11B00D4AFAB /* Main.storyboard */,
 				EDCE1DF21AAAC11B00D4AFAB /* Images.xcassets */,
 				EDCE1DF41AAAC11B00D4AFAB /* LaunchScreen.xib */,
@@ -221,6 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EDCE1DEE1AAAC11B00D4AFAB /* ViewController.swift in Sources */,
+				EDDF984F1AAB84580061049F /* CalculationViewController.swift in Sources */,
 				EDCE1DEC1AAAC11B00D4AFAB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

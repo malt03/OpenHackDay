@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9092F48-6708-4B05-AADA-2B9B7B3563FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenHackDay</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E8E7F47468AFFD3A6B8C5C8121BBF5A472458CCF</key>
+		<string>github.com:malt03/OpenHackDay.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OpenHackDay.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E8E7F47468AFFD3A6B8C5C8121BBF5A472458CCF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:malt03/OpenHackDay.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E8E7F47468AFFD3A6B8C5C8121BBF5A472458CCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E8E7F47468AFFD3A6B8C5C8121BBF5A472458CCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenHackDay</string>
+		</dict>
+	</array>
+</dict>
+</plist>
